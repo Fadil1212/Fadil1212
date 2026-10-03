@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=280&amp;section=header&amp;text=Fadil%20Mohammed%20Surur&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20and%20AI&amp;descAlignY=55&amp;descAlign=50" alt="Fadil  Surur Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=280&amp;section=header&amp;text=Fadil%20Surur&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20and%20AI&amp;descAlignY=55&amp;descAlign=50" alt="Fadil  Surur Header" />
 
   <p>
     <a href="https://www.linkedin.com/in/fadil-surur/">
