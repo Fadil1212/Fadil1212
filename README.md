@@ -1,4 +1,4 @@
-# Hi, I'm Fadil Mohammed Surur 👋
+# Hi, I'm Fadil  👋
 
 ### Data Analyst | Data Scientist | Machine Learning & AI
 
