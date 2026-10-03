@@ -1,112 +1,169 @@
-# Hi, I'm Fadil  👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Fadil%20Mohammed%20Surur&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%26%20AI&descAlignY=55&descAlign=50" alt="Fadil Mohammed Surur Header" />
 
-### Data Analyst | Data Scientist | Machine Learning & AI
+  <p>
+    <a href="https://www.linkedin.com/in/fadil-surur/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:fadilmohammed208@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://fadiga.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 
-I'm an M.S. Data Analytics student at George Washington University with a background in computer science and experience building data analytics, machine learning, deep learning, and big-data solutions.
-
-I enjoy turning complex datasets into meaningful insights and building end-to-end solutions — from data processing and visualization to predictive modeling and deployment.
-
-## 👨‍💻 About Me
-
-- 🎓 M.S. in Data Analytics at George Washington University
-- 📊 Focused on Data Analytics, Data Science, Machine Learning, and AI
-- 🤖 Experience with machine learning, deep learning, graph neural networks, and LLM applications
-- ⚡ Build real-time data pipelines with Kafka, Spark, and PostgreSQL
-- 📈 Create interactive analytics dashboards with Power BI and Streamlit
-- 🔬 Research experience in IoT, Digital Twins, and Smart Manufacturing
-- ☁️ Currently expanding my skills in cloud computing and scalable data systems
-
-## 🛠️ Technical Skills
-
-**Programming & Data**  
-Python • SQL • Pandas • NumPy
-
-**Machine Learning & AI**  
-Scikit-learn • PyTorch • TensorFlow • XGBoost • LightGBM • CatBoost • Graph Neural Networks
-
-**Data Engineering & Big Data**  
-Apache Spark • Apache Kafka • PostgreSQL • REST APIs
-
-**Analytics & Visualization**  
-Power BI • Matplotlib • Plotly • Streamlit
-
-**Generative AI**  
-LLMs • LangChain • Llama • OpenAI APIs
-
-**Tools & Cloud**  
-Git • GitHub • Docker • AWS
-
-## 🚀 Featured Projects
-
-### 💊 [Adverse Drug Reaction Prediction System](https://github.com/Fadil1212/Adverse-Drug-Reaction-Prediction_System-)
-
-AI-powered system for predicting potential adverse drug reactions using graph neural networks and ensemble machine learning.
-
-- Processed and integrated **500K+ drug, indication, and side-effect records**
-- Built a **Relational Graph Convolutional Network (RGCN)** with PyTorch
-- Benchmarked against XGBoost, LightGBM, and CatBoost stacking models
-- Deployed an interactive **Streamlit dashboard** with probability and confidence visualizations
-
-**Tech:** Python • PyTorch • RGCN • XGBoost • LightGBM • CatBoost • Streamlit
-
-🚀 [Live Demo](https://adverse-drug-reactionpredictionsystem-zcapb6bza78xtaqriz96nv.streamlit.app/)
+  <h3>🎓 M.S. Data Analytics @ The George Washington University</h3>
+  <p>
+    Data analytics graduate student building <b>end-to-end analytics, machine learning, and AI solutions</b>.<br/>
+    I work across <b>data analysis, visualization, predictive modeling, graph neural networks, and real-time data pipelines</b><br/>
+    to turn complex data into useful insights and deployable applications.
+  </p>
+</div>
 
 ---
 
-### 🚦 [Real-Time Traffic & Noise Monitoring](https://github.com/Fadil1212/Real-Time-Traffic-Noise-Monitoring)
+### 💡 What I Do
 
-Real-time big-data pipeline for monitoring urban traffic noise, predicting noise conditions, and identifying commuter stress zones.
+<div align="center">
 
-- Built a streaming pipeline using **Apache Kafka and Spark Structured Streaming**
-- Stored and analyzed streaming data with **PostgreSQL**
-- Applied machine learning for noise prediction and stress-zone detection
-- Integrated OpenStreetMap data for spatial analysis and quieter-route recommendations
+`Data Analytics` · `Machine Learning` · `Deep Learning` · `Big Data` · `Data Visualization` · `Graph Neural Networks` · `Generative AI`
 
-**Tech:** Kafka • Spark • PostgreSQL • Python • Scikit-learn • Docker • Streamlit
+**I turn raw data into meaningful insights, predictive models, and interactive data products.**
 
----
-
-### 🎵 [Spotify Music Analytics](https://github.com/Fadil1212/Spotify-Analysis)
-
-Interactive analytics project exploring Spotify streaming trends, artist performance, song popularity, and audio characteristics.
-
-**Tech:** Power BI • Python • Data Analytics • Data Visualization
+</div>
 
 ---
 
-### 🏨 [Hotel Revenue Analytics](https://github.com/Fadil1212/Revenue-Insights-in-Hotel-Domain)
+<h3>🛠️ The Tech Arsenal</h3>
 
-Business intelligence dashboard analyzing hotel revenue, occupancy, ADR, booking platforms, and property performance.
-
-**Tech:** Power BI • Data Analytics • Business Intelligence
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">💻 Programming & Data</h4>
+      <p align="center">Core tools for analysis, transformation, querying, and data processing.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📊 Analytics & Visualization</h4>
+      <p align="center">Interactive dashboards and visual analysis for communicating insights.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🧠 Machine Learning & AI</h4>
+      <p align="center">Predictive modeling, ensemble learning, deep learning, and graph-based AI.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ Big Data & Engineering</h4>
+      <p align="center">Streaming, storage, APIs, and scalable data-processing pipelines.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">✨ Generative AI & LLMs</h4>
+      <p align="center">LLM-powered applications, orchestration, and multilingual AI workflows.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-7B61FF?style=flat-square" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">☁️ Cloud & Tools</h4>
+      <p align="center">Development, deployment, version control, and cloud infrastructure.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-### 🚲 Cyclistic Bike-Share Case Study
+### 🚀 Featured Projects
 
-End-to-end data analytics case study analyzing differences between casual riders and annual members to identify actionable business insights.
+#### 🤖 Machine Learning & AI
 
-**Tech:** Data Cleaning • Data Analysis • Visualization • Business Analysis
+| Project | Stack | Impact |
+|:--------|:-----:|:-------|
+| **[Adverse Drug Reaction Prediction System](https://github.com/Fadil1212/Adverse-Drug-Reaction-Prediction_System-)** | *PyTorch, RGCN, XGBoost, LightGBM, CatBoost, Streamlit* | Built an AI-powered ADR prediction system using graph neural networks and ensemble ML on **500K+ merged records**, with an interactive Streamlit application for probability and confidence analysis. |
+| **[Real-Time Traffic & Noise Monitoring](https://github.com/Fadil1212/Real-Time-Traffic-Noise-Monitoring)** | *Kafka, Spark, PostgreSQL, Scikit-learn, Docker, Streamlit* | Built a real-time big-data pipeline that processes simulated urban noise streams, predicts noise conditions, identifies stress zones, and supports quieter-route recommendations. |
 
-## 🔬 Research
+#### 📊 Data Analytics & Business Intelligence
 
-### Digital Twins in Smart Manufacturing
+| Project | Stack | Impact |
+|:--------|:-----:|:-------|
+| **[Spotify Music Analytics](https://github.com/Fadil1212/Spotify-Analysis)** | *Power BI, Python, Data Visualization* | Analyzed Spotify music data to explore streaming trends, artist performance, song popularity, and audio characteristics through an interactive dashboard. |
+| **[Hotel Revenue Analytics](https://github.com/Fadil1212/Revenue-Insights-in-Hotel-Domain)** | *Power BI, Business Intelligence* | Developed a business intelligence dashboard for hotel revenue, occupancy, ADR, booking-platform performance, and property-level analysis. |
 
-Research focused on Digital Twin technologies, IoT integration, real-time data analytics, and smart manufacturing systems.
+---
 
-📄 **Publication:**  
-*Digital Twins in Smart Manufacturing: Applications, Navigating Challenges, Technologies, and Future Directions for the Industry*
+### 🔬 Research & Publication
 
-## 🎯 Currently Exploring
+**Digital Twins in Smart Manufacturing**
 
-- Advanced Machine Learning & Deep Learning
-- Generative AI and LLM Applications
-- Cloud Computing
-- Data Engineering
-- Scalable Analytics Pipelines
+Research experience focused on Digital Twin technologies, IoT integration, real-time data analytics, and smart manufacturing systems.
 
-## 📫 Connect With Me
+📄 **Published Research:** *Digital Twins in Smart Manufacturing: Applications, Navigating Challenges, Technologies, and Future Directions for the Industry*
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fadil-surur/)
-- 🌐 [Portfolio](https://fadiga.vercel.app/)
-- 📧 [Email](mailto:fadilmohammed208@gmail.com)
+---
+
+### 🌱 Currently Exploring
+
+<div align="center">
+
+`Advanced Machine Learning` · `Deep Learning` · `Generative AI` · `Cloud Computing` · `Data Engineering` · `Scalable Analytics`
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/fadil-surur/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fadil_Surur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fadiga.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:fadilmohammed208@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
