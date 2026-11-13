@@ -27,7 +27,7 @@
 
 <div align="center">
 
-`Data Analytics` · `Machine Learning` · `Deep Learning` · `Big Data` · `Data Visualization` · `Graph Neural Networks` · `Generative AI`
+`Data Analytics` · `Machine Learning` · `Big Data` · `Cloud Engineering` · `CI/CD` · `Container Orchestration` · `Generative AI`
 
 **I turn raw data into meaningful insights, predictive models, and interactive data products.**
 
@@ -98,14 +98,23 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">☁️ Cloud &amp; Tools</h4>
-      <p align="center">Development, deployment, version control, and cloud infrastructure.</p>
+      <h4 align="center">☁️ Cloud, DevOps &amp; CI/CD</h4>
+      <p align="center">AWS deployments, automated delivery, containers, and orchestration.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
         <br/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&amp;logo=jenkins&amp;logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon_EKS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/CloudFormation-8C4FFF?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
       </div>
     </td>
   </tr>
@@ -115,6 +124,12 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### ☁️ Cloud Engineering & DevOps
+
+| Project | Stack | Impact |
+|:--------|:-----:|:-------|
+| **[AWS ECS & EKS CI/CD Pipeline](https://github.com/Fadil1212/aws-ecs-eks-cicd-pipeline)** | *AWS ECS, EKS, ECR, CloudFormation, Docker, Kubernetes, Jenkins, GitHub Actions, Python* | Built a Git-to-cloud CI/CD pipeline that tests, builds, and deploys a single immutable container image to **both ECS Fargate and EKS**. Verified matching Git commits and image digests, simulated unhealthy deployments, demonstrated rollback and scaling, and documented secure teardown. **5 automated tests passed; v2.0.0 deployed successfully.** |
 
 #### 🤖 Machine Learning &amp; AI
 
