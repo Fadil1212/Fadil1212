@@ -131,6 +131,9 @@
 |:--------|:-----:|:-------|
 | **[AWS ECS & EKS CI/CD Pipeline](https://github.com/Fadil1212/aws-ecs-eks-cicd-pipeline)** | *AWS ECS, EKS, ECR, CloudFormation, Docker, Kubernetes, Jenkins, GitHub Actions, Python* | Built a Git-to-cloud CI/CD pipeline that tests, builds, and deploys a single immutable container image to **both ECS Fargate and EKS**. Verified matching Git commits and image digests, simulated unhealthy deployments, demonstrated rollback and scaling, and documented secure teardown. **5 automated tests passed; v2.0.0 deployed successfully.** |
 
+| **[NSRL Cloud Query Platform](https://github.com/Fadil1212/End-to-end-AWS-cloud-platform-featuring-Python-Flask-RDS-MySQL-Multi-AZ-Jenkins-CI-CD-CloudFormat)** | *AWS EC2, RDS MySQL, S3, CloudFormation, Jenkins, GitHub Actions, Flask, SSM* | Engineered an end-to-end cloud database search platform with automated CI/CD, private MySQL access, encrypted connections, and disaster-recovery validation. **Jenkins Build #3 succeeded; a forced Multi-AZ failover recovered application connectivity, and a restored snapshot passed dataset-count checks.** |
+| **[NSRL MySQL Database Workshop](https://github.com/Fadil1212/nsrl-mysql-database-workshop)** | *Amazon RDS MySQL 8.4, S3, Secrets Manager, CloudFormation, Jenkins, GitHub Actions, Python* | Developed a reproducible NSRL database workshop with a browser-based query interface, private SSM connectivity, TLS enforcement, automated loading, and optional **Multi-AZ failover and snapshot-restore testing**. |
+
 #### 🤖 Machine Learning &amp; AI
 
 | Project | Stack | Impact |
@@ -142,6 +145,7 @@
 
 | Project | Stack | Impact |
 |:--------|:-----:|:-------|
+| **[GridLens — U.S. Grid Intelligence](https://github.com/Fadil1212/GridLens)** · [Live demo](https://gridlens-blond.vercel.app/) | *React, TypeScript, EIA API, Ridge Regression, Recharts, Cloudflare D1, Vercel* | Built a deployed electricity-demand analytics dashboard with live EIA data, **24-hour forecasts**, model comparison, state-level energy insights, and exportable scenario planning. In a documented PJM retrospective test, ridge regression achieved **1.99% MAPE across 168 held-out hours**; results are not a same-horizon production forecast benchmark. |
 | **[Spotify Music Analytics](https://github.com/Fadil1212/Spotify-Analysis)** | *Power BI, Python, Data Visualization* | Analyzed Spotify music data to explore streaming trends, artist performance, song popularity, and audio characteristics through an interactive dashboard. |
 | **[Hotel Revenue Analytics](https://github.com/Fadil1212/Revenue-Insights-in-Hotel-Domain)** | *Power BI, Business Intelligence* | Developed a business intelligence dashboard for hotel revenue, occupancy, ADR, booking-platform performance, and property-level analysis. |
 
