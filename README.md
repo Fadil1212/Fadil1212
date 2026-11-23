@@ -160,6 +160,30 @@ Research experience focused on Digital Twin technologies, IoT integration, real-
 
 ---
 
+### 🏅 Certifications & Achievements
+
+#### 📚 Technical Training & Professional Development
+
+| Program / Training | Focus |
+|:-------------------|:------|
+| **AWS Academy — Cloud Security Foundations** | AWS identity and access management, cloud security principles, monitoring, and infrastructure protection. |
+| **Red Hat System Administration II (RH134) — Coursework** | Enterprise Linux administration, SELinux, networking, storage, services, troubleshooting, and system automation. |
+| **Red Hat OpenShift Development (DO188) — Coursework** | Podman, container image builds, registries, application deployment, troubleshooting, and OpenShift workflows. |
+
+> **Credential note:** Training and coursework are listed separately from vendor certification exams; course participation does not imply AWS or Red Hat professional certification.
+
+#### 🏆 GitHub Achievements
+
+**Quickdraw** · **Pull Shark** — [View GitHub-issued achievement badges](https://github.com/Fadil1212?tab=achievements).
+
+#### ✅ Project Milestones
+
+- **Cloud CI/CD:** Deployed the same verified image to ECS Fargate and EKS, with five passing automated tests and demonstrated rollback/scaling.
+- **Cloud database reliability:** Verified MySQL Multi-AZ failover, application reconnection, and snapshot restoration in an AWS lab.
+- **Applied energy analytics:** Deployed GridLens with EIA-powered dashboards, comparative forecasting, and scenario-planning tools.
+
+---
+
 ### 🌱 Currently Exploring
 
 <div align="center">
