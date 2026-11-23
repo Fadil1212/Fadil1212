@@ -130,7 +130,6 @@
 | Project | Stack | Impact |
 |:--------|:-----:|:-------|
 | **[AWS ECS & EKS CI/CD Pipeline](https://github.com/Fadil1212/aws-ecs-eks-cicd-pipeline)** | *AWS ECS, EKS, ECR, CloudFormation, Docker, Kubernetes, Jenkins, GitHub Actions, Python* | Built a Git-to-cloud CI/CD pipeline that tests, builds, and deploys a single immutable container image to **both ECS Fargate and EKS**. Verified matching Git commits and image digests, simulated unhealthy deployments, demonstrated rollback and scaling, and documented secure teardown. **5 automated tests passed; v2.0.0 deployed successfully.** |
-
 | **[NSRL Cloud Query Platform](https://github.com/Fadil1212/End-to-end-AWS-cloud-platform-featuring-Python-Flask-RDS-MySQL-Multi-AZ-Jenkins-CI-CD-CloudFormat)** | *AWS EC2, RDS MySQL, S3, CloudFormation, Jenkins, GitHub Actions, Flask, SSM* | Engineered an end-to-end cloud database search platform with automated CI/CD, private MySQL access, encrypted connections, and disaster-recovery validation. **Jenkins Build #3 succeeded; a forced Multi-AZ failover recovered application connectivity, and a restored snapshot passed dataset-count checks.** |
 | **[NSRL MySQL Database Workshop](https://github.com/Fadil1212/nsrl-mysql-database-workshop)** | *Amazon RDS MySQL 8.4, S3, Secrets Manager, CloudFormation, Jenkins, GitHub Actions, Python* | Developed a reproducible NSRL database workshop with a browser-based query interface, private SSM connectivity, TLS enforcement, automated loading, and optional **Multi-AZ failover and snapshot-restore testing**. |
 
